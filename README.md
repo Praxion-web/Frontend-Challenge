@@ -17,7 +17,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![](./screenshot.jpg)
 
 ### Links
-- Solution URL: [https://github.com/praxion-web/qr-code-component](https://github.com/praxion-web/qr-code-component)
+- Solution URL: https://github.com/Praxion-web/Frontend-Challenge.git
 
 ## My process
 
