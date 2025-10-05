@@ -65,7 +65,32 @@
         color: hsl(216, 15%, 48%);
       }
 
-      @media screen {
+      @media (max-width: 375px) {
+        body {
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          height: 100vh;
+        }
+
+        .outerbox {
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          width: 200px;
+          padding: 50px;
+        }
+
+        img {
+          border-radius: 10px;
+          width: 220px;
+          height: 220px;
+        }
+
+        p {
+          font-size: 15px;
+          color: hsl(216, 15%, 48%);
+        }
       }
     </style>
   </head>
