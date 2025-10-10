@@ -1,42 +1,43 @@
-# Frontend Mentor - QR code component solution
+README
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
+#Theme#
+Astra
 
-## Table of contents
+#Structure#
 
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-- [Author](#author)
+Home (welcoming, images of students/campus, call-to-action)
 
-### Screenshot
+About Us (history, mission, vision, staff profiles)
 
-![](./Desktop.png)
-![](./Mobile.png)
+Academics (curriculum, departments, programs)
 
-### Links
+Admissions (how to apply, requirements, downloadable forms)
 
-- Solution URL: https://github.com/Praxion-web/Frontend-Challenge.git
+News/Events/Blog (school updates, calendar)
 
-## My process
+Gallery (photos & videos of campus life)
 
-### Built with
+Contact Page (location map, phone, form)
 
-- HTML5
-- CSS3
-- Flexbox
-- Google Fonts (Outfit)
+#Essential Plugins#
 
-### What I learned
+Elementor
 
-I learned how to correctly embed Google Fonts and use Flexbox for centering elements within a layout.
+WPForms o → admission inquiries, contact forms, feedback
 
-```html
-<link
-  href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap"
-  rel="stylesheet"
-/>
-```
+The Events Calendar → to manage school events, open days, activities
+
+Envira Gallery → beautiful photo/video gallery
+
+RankMath → search engine optimization (so parents find the school online)
+
+WP Super Cache or LiteSpeed Cache → make the site fast
+
+Imagify → image optimization (faster loading for your gallery)
+
+#Texture#
+
+Add sliders or hero banners
+Use high-quality photos of students, classrooms, labs, and activities
+Add color branding (school colors: uniforms, logo palette)
+Use typography that’s clean and formal
